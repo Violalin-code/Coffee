@@ -20,3 +20,5 @@ HOW TO RUN
 2. Place the pre-trained model (best_model (3).pkl) and label encoder (label_encoder (3).pkl) in the same directory as the code.
 
 3. Run the code
+
+GUI:https://huggingface.co/spaces/vjl004/CoffeeTake2 
