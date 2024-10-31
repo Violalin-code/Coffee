@@ -6,6 +6,8 @@ This project implements a Coffee Type Recommendation System using a pre-trained 
 The model predicts the ideal coffee type for a user based on inputs such as time of day, coffee strength, sweetness level, milk type, and more. 
 The system uses Gradio to provide a user-friendly web interface where users can input their preferences and get a recommendation.
 
+ML Model: The Decision Tree model was selected as the best model, as it had the lowest RMSE (1.1597) on the test dataset. This model was saved as best_model.pkl, meaning the model currently being loaded and used for predictions in the app is a DecisionTreeClassifier. Typically Decision Tree model are suitable for both classification and regression tasks.
+
 FEATURES
 
 Predicts the ideal coffee type based on user preferences.
