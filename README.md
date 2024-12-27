@@ -24,6 +24,7 @@ A Decision Tree Classifier was chosen for its suitability in classification task
 - best_model.pkl (pre-trained model)
 - label_encoder.pkl (label encoder for decoding predictions)
 - Run the Code: Execute the script to launch the app.
+
 GUI:https://huggingface.co/spaces/vjl004/CoffeeTake2 
 
 ## Project Files
