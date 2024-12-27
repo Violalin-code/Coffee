@@ -1,4 +1,4 @@
-# Coffee Type Recommendation App
+# Coffee Type Recommendation App ☕️
 ## Overview
 This project develops a Coffee Type Recommendation System using a pre-trained machine learning model that predicts the ideal coffee type for users based on various preferences. These preferences include factors such as time of day, coffee strength, sweetness level, milk type, and more. The system leverages Gradio to create an intuitive web interface, allowing users to easily input their preferences and receive real-time coffee recommendations.
 
